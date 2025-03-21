@@ -2,7 +2,7 @@
 > Open this page at [https://cuvner.github.io/binary-lesson/](https://cuvner.github.io/binary-lesson/)
 
 ## Tutorials
-[Tutorial](/tutorial)
+[Tutorial](binary-lesson/tutorial)
 
 ## Edit this project
 
