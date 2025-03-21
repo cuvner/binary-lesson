@@ -1,14 +1,8 @@
 
 > Open this page at [https://cuvner.github.io/binary-lesson/](https://cuvner.github.io/binary-lesson/)
 
-## Use as Extension
-
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/cuvner/binary-lesson** and import
+## Tutorials
+[Tutorial](/tutorial)
 
 ## Edit this project
 
