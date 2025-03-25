@@ -3,7 +3,7 @@
 ## Step 1
 
 Declare your variables
-
+You can find** " " ** in **advanced**  -> **text**
 ```blocks
 let binary = ""
 let decimal = 0
