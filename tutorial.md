@@ -2,8 +2,9 @@
 
 ## Step 1
 
-Declare your variables
+Declare your variables.  
 You can find** " " ** in **advanced**  -> **text**
+
 ```blocks
 let binary = ""
 let decimal = 0
@@ -24,7 +25,8 @@ input.onButtonPressed(Button.B, function () {
 ```
 
 ## Step 3 
-Add the binary value to the variable and display updated binary string
+Save the user input into **binary**. 
+Show updated **binary** string and add a **clear** to refresh screen.
 ```blocks
 input.onButtonPressed(Button.A, function () {
     basic.clearScreen()
@@ -40,7 +42,7 @@ input.onButtonPressed(Button.B, function () {
 })
  ```
 ## Step 4
-Calculate decimal value "on the fly"
+Calculate **decimal** value "on the fly"
 
 ``` blocks
 decimal = decimal * 2
@@ -73,6 +75,6 @@ input.onButtonPressed(Button.AB, function () {
 })
 ```
 
-Congratulations, you did it!
+**Congratulations, you did it!**
     
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
